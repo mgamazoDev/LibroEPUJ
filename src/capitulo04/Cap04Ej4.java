@@ -1,5 +1,5 @@
 ﻿/**
-  * Clase que implementa el ejercicio 3 del capítulo 4 punto a, del libro Empezar a Programar
+  * Clase que implementa el ejercicio 4 del capítulo 4, del libro Empezar a Programar
   * Usando Java. Cuyo enunciado es:
   * 
   * Se tiene definida la clase Hora que se muestra en la figura 4.14.
